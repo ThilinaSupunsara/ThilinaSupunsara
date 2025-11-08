@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Passionate+about+Clean+Code+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=145&lines=Hey+there!+%F0%9F%91%8B+I'm+a+Full+Stack+Developer;Passionate+about+Clean+Code+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,8 +20,6 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Introduction
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Hi there! I'm **Thilina Supunsara**, a passionate Software Developer who loves turning complex problems into elegant, scalable solutions. Welcome to my GitHub profile!
 
@@ -100,7 +98,7 @@ const thilina = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
   
   ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Rocket" width="40" /> GitHub Stats
 </div>
@@ -110,17 +108,12 @@ const thilina = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaSupunsara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilinaSupunsara&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThilinaSupunsara&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThilinaSupunsara&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" height="280"  alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThilinaSupunsara&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+
 
 ---
 
@@ -128,15 +121,10 @@ const thilina = {
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
   
   ## Connect With Me
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30)](https://www.linkedin.com/in/thilina-supunsara)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=plastic)](https://thilina-supunsara-portfolio.web.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic)](mailto:thilina.supunsara.croos@gmail.com)
 
 </div>
 
@@ -156,11 +144,6 @@ const thilina = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
-</div>
 
 ---
 
@@ -171,9 +154,6 @@ const thilina = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  ### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
   
   ⭐️ From [ThilinaSupunsara](https://github.com/ThilinaSupunsara)
 </div>
