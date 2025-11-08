@@ -117,30 +117,7 @@ const thilina = {
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  
-  ## Connect With Me
-
-</div>
-
-<div align="center">
-
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thilina-supunsara">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="https://thilina-supunsara-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=google-chrome&logoColor=white" height="30" alt="portfolio logo" />
-  </a>
-  <img width="12" />
-  <a href="mailto:thilina.supunsara.croos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30" alt="gmail logo" />
-  </a>
-</div>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> <strong>Connect With Me</strong><br><a href="https://www.linkedin.com/in/thilina-supunsara"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" alt="linkedin logo" /></a> <a href="https://thilina-supunsara-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=google-chrome&logoColor=white" height="30" alt="portfolio logo" /></a> <a href="mailto:thilina.supunsara.croos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30" alt="gmail logo" /></a></div>
 
 <br/>
 
@@ -154,10 +131,5 @@ const thilina = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  
-  ⭐️ From [ThilinaSupunsara](https://github.com/ThilinaSupunsara)
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
