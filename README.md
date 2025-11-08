@@ -37,7 +37,6 @@ I'm a Software Developer passionate about building clean, efficient applications
 
 ```javascript
 const thilina = {
-    pronouns: "He" | "Him",
     code: ["JavaScript", "PHP", "Java", "Python"],
     askMeAbout: ["web dev", "app dev", "tech", "problem solving"],
     technologies: {
