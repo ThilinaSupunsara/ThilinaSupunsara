@@ -102,10 +102,7 @@ const thilina = {
   ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Rocket" width="40" /> GitHub Stats
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThilinaSupunsara&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaSupunsara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</div>
+
 
 
 <div align="center">
